@@ -4,7 +4,7 @@
 
 Designing and operating end-to-end data pipelines and lakehouse architectures across financial services, healthcare, and supply chain. Currently building real-time streaming systems and multi-agent AI pipelines.
 
-📍 Remote &nbsp;|&nbsp; 📬 kamsanihemanthreddy7@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/hemanthkamsani/) &nbsp;|&nbsp; 🟢 Open to roles
+📬 kamsanihemanthreddy7@gmail.com &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/hemanthkamsani/) &nbsp;|&nbsp; 🟢 Open to roles
 
 ---
 
